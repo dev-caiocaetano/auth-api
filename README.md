@@ -107,7 +107,7 @@ The API will be running on `http://localhost:3000`. Use Insomnia or Postman to i
 ---
 <br>
 
-## Versao em Portugues
+## Versão em Português
 
 > Um serviço de backend robusto para gerenciamento de catálogo de produtos, apresentando um sistema completo de autenticação de usuário com controle de acesso baseado em papéis. Construído com Node.js, Express e MongoDB, este projeto serve como uma peça de portfólio abrangente, demonstrando design seguro de API, arquitetura limpa e práticas modernas de backend.
 
